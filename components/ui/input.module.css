@@ -1,0 +1,45 @@
+.input {
+  border-radius: 14px;
+  background: #ffffff;
+  padding: 20px 16px;
+  height: 6vh;
+  border: 1px solid #cdcccc;
+}
+
+.required {
+  color: red;
+  margin-left: 5px;
+}
+
+.error_message {
+  color: red !important;
+  font-size: 10px;
+  text-align: right;
+  padding-top: 4px;
+}
+
+.phone {
+  border-radius: 14px !important;
+  background: #ffffff;
+  height: 6vh;
+  font-family: inherit;
+  border: 1px solid #cdcccc;
+}
+
+.react-tel-input {
+  border-radius: 14px !important;
+}
+.error_input {
+  border-color: red !important;
+}
+
+.form_label {
+  margin: 10px 0px;
+  color: #6d5747;
+  height: fit-content;
+}
+.form_group {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
